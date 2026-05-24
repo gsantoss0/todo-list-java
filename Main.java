@@ -20,6 +20,7 @@ public class Main
             System.out.println("4 - Marcar tarefa como concluída");
             System.out.println("5 - sair");
             System.out.println("===================================================");
+            System.out.print("Escolha uma opção: ");
             opcao = sc.nextInt();
             sc.nextLine();
             
