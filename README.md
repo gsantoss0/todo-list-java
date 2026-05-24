@@ -12,3 +12,6 @@ Projeto simples de lista de tarefas no terminal.
 - Java
 - ArrayList
 - Scanner
+
+## Objetivo
+Praticar lógica de programação e manipulação de listas em Java.
